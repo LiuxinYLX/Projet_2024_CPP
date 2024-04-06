@@ -14,6 +14,6 @@ Aïcha Chaouch, Lisa Phma, Liuxin YANG, Peiwen YANG, Peiyao LI, Wentai FU, Yanti
 
 ## Commande de exécution:
 
-- g++
+g++ MyFile.cpp -o MyFile
 
   
