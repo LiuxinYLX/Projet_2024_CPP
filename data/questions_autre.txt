@@ -1,0 +1,15 @@
+Quelle est la capitale de la France?   1.Londres   2.Berlin   3.Paris   4.Bruxelles  ,3
+Quel est le plus grand océan du monde?   1.Océan Atlantique   2.Océan Arctique   3.Océan Indien   4.Océan Pacifique  ,4
+Qui a écrit "Le Petit Prince"?   1.Victor Hugo   2.Jules Verne   3.Antoine de Saint-Exupéry   4.Molière  ,3
+Quelle est la planète la plus proche du Soleil?   1.Vénus   2.Terre   3.Mars   4.Mercure  ,4
+Quel est l'animal national de l'Australie?   1.Kangourou   2.Koala   3.Wombat   4.Émeu  ,1
+Quel est l'élément chimique le plus abondant dans l'univers?   1.Hydrogène   2.Oxygène   3.Hélium   4.Carbone  ,1
+Quel est le plus haut sommet du monde?   1.Mont Kilimandjaro   2.Mont Everest   3.Mont McKinley   4.Mont Fuji  ,2
+Quelle est la devise de la France?   1.Liberté, égalité, fraternité   2.In God We Trust   3.E pluribus unum   4.Deo gratias  ,1
+Quel est le symbole chimique de l'eau?   1.H   2.O   3.Au   4.Ag  ,2
+Quel est le plus grand désert du monde?   1.Désert du Sahara   2.Désert de Gobi   3.Désert d'Atacama   4.Désert d'Arabie  ,1
+Quel est le plus grand lac d'Afrique? 	1.Lac Victoria 	2.Lac Tanganyika 	3.Lac Malawi 	4.Lac Baïkal ,1
+Qui a écrit "Orgueil et Préjugés"? 	1.Emily Brontë 	2.Jane Austen 	3.Charlotte Brontë 	4.Agatha Christie ,2
+Quel est l'instrument de mesure de la distance parcourue par un véhicule? 	1.Compteur kilométrique 	2.Compteur de vitesse 	3.Compteur de tours/min 	4.Aucun des trois ,1
+Quel est le plus grand archipel du monde? 	1.Îles Fidji 	2.Îles Hawaï 	3.Îles Galápagos 	4.Îles Maldives ,4
+Quel est le plus grand océan du monde? 		1.Océan Atlantique 	2.Océan Arctique 	3.Océan Indien		4.Océan Pacifique ,4

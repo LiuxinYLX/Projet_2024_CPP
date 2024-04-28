@@ -1,0 +1,14 @@
+Quel est le principe de fonctionnement d'un moteur à combustion interne? 1.Conversion de l'énergie chimique en énergie mécanique 2.Conversion de l'énergie électrique en énergie mécanique 3.Conversion de l'énergie solaire en énergie cinétique 4.Aucune des trois ,1
+Quel matériau est couramment utilisé comme conducteur électrique? 1.Aluminium 2.Acier inoxydable 3.Fibre de carbone 4.Aucun des trois ,1
+Quel est le but principal d'un système de refroidissement dans un moteur? 1.Réduire la consommation de carburant 2.Prévenir la surchauffe des composants 3.Augmenter la vitesse maximale du véhicule 4.Aucun des trois ,2
+Quelle est l'unité de mesure de la puissance électrique? 1.La joule 2.Le watt 3.Le volt 4.Aucune des trois ,2
+Quel type de pont est constitué de poutres horizontales soutenues par des piliers verticaux? 1.Pont suspendu 2.Pont en arc 3.Pont à poutres 4.Aucun des trois ,3
+Quel matériau est souvent utilisé pour la construction de ponts en raison de sa résistance à la traction? 1.Le béton 2.Le bois 3.L'acier 4.Aucun des trois ,3
+Quelle est la fonction principale d'un système de transmission dans un véhicule automobile? 1.Transformer l'énergie électrique en mouvement mécanique 2.Transférer la puissance du moteur aux roues 3.Fournir de l'électricité aux différents composants du véhicule 4.Aucun des trois ,2
+Quelle est la principale caractéristique d'un matériau ductile? 1.Il se déforme sans se rompre 2.Il est facilement compressible 3.Il est résistant à la corrosion 4.Aucune des trois ,1
+Quelle est la fonction principale d'un générateur électrique? 1.Conversion de l'énergie mécanique en énergie électrique 2.Conversion de l'énergie solaire en énergie thermique 3.Conversion de l'énergie chimique en énergie mécanique 4.Aucun des trois ,1
+Quel type de dispositif est utilisé pour mesurer la température d'un fluide dans un circuit? 1.Tachymètre 2.Manomètre 3.Thermomètre  4.Aucun des trois ,3
+Quel est le principal avantage d'un système de freinage antiblocage (ABS) dans un véhicule? 1.Prévenir le blocage des roues pendant le freinage 2.Augmenter la vitesse maximale du véhicule 3.Réduire la consommation de carburant 4.Aucun des trois ,1
+Quelle est la fonction principale d'un convertisseur catalytique dans un véhicule? 1.Filtrer les particules de poussière de l'air 2.Augmenter la puissance du moteur 3.Refroidir le moteur pendant son fonctionnement 4.Aucun des trois ,4
+Quel est le principe de fonctionnement d'un moteur électrique? 1.Conversion de l'énergie chimique en énergie mécanique 2.Conversion de l'énergie électrique en énergie mécanique 3.Conversion de l'énergie solaire en énergie électrique 4.Aucun des trois ,2
+Quelle est la fonction principale d'un compresseur dans un système de climatisation? 1.Refroidir l'air ambiant 2.Compresser le réfrigérant gazeux 3.Filtrer les particules de poussière de l'air 4.Aucun des trois ,2

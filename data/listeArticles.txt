@@ -1,0 +1,15 @@
+orange, 1, "C'est une orange", 2, 5
+fraise, 3, "C'est une fraise", 3, 6
+kiwi, 2, "C'est un kiwi", 4, 7
+poire, 2, "C'est une poire", 2, 8
+ananas, 2, "C'est un ananas", 1, 9
+raisin, 4, "C'est du raisin", 3, 10
+citron, 1, "C'est un citron", 2, 11
+pêche, 2, "C'est une pêche", 1, 12
+cerise, 3, "C'est une cerise", 4, 13
+abricot, 2, "C'est un abricot", 2, 14
+pastèque, 5, "C'est une pastèque", 1, 15
+melon, 3, "C'est un melon", 3, 16
+poireau, 1, "C'est un poireau", 2, 17
+carotte, 1, "C'est une carotte", 3, 18
+aubergine, 2, "C'est une aubergine", 2, 19
